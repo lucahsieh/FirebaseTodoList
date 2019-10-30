@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "18064948018",
+    "firebase_url": "https://androidrocks-10594.firebaseio.com",
+    "project_id": "androidrocks-10594",
+    "storage_bucket": "androidrocks-10594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18064948018:android:324d4263fad9facb1a352b",
+        "android_client_info": {
+          "package_name": "io.github.lucahsieh.firebaserocks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18064948018-opcms10ohqs8apeu4t03pfk8ihfvbk6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.lucahsieh.firebaserocks",
+            "certificate_hash": "9e284aa820e34c81dfd9de2e0c02ee7ff5000d1c"
+          }
+        },
+        {
+          "client_id": "18064948018-7q9cldenmrlmdrgta08nc2n9rg4su6s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrEPAGn2X0apNeo1wG2faOy78DNqGFSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18064948018-7q9cldenmrlmdrgta08nc2n9rg4su6s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

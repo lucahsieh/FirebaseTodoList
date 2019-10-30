@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FirebaseRocks</string>
+
+    <string name="hintTask">Task</string>
+    <string name="hintWho">Who</string>
+    <string name="hintDue">Due Date</string>
+    <string name="hintDone">Done</string>
+
+    <string name="btnAddToDoItem">Add Item</string>
+    <string name="enterNewToDoItem">Enter New Item</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnDelete">Delete</string>
+
+<!--    <string-array name="schools">-->
+<!--        <item>Business</item>-->
+<!--        <item>Computing</item>-->
+<!--        <item>Energy</item>-->
+<!--        <item>Mining</item>-->
+<!--        <item>Nursing</item>-->
+<!--    </string-array>-->
+
+</resources>
